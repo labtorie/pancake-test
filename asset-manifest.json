@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.6693d0f5.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.6693d0f5.js.map": "/static/js/main.6693d0f5.js.map"
+    "main.css": "/pancake-test/static/css/main.073c9b0a.css",
+    "main.js": "/pancake-test/static/js/main.6693d0f5.js",
+    "index.html": "/pancake-test/index.html",
+    "main.073c9b0a.css.map": "/pancake-test/static/css/main.073c9b0a.css.map",
+    "main.6693d0f5.js.map": "/pancake-test/static/js/main.6693d0f5.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
